@@ -14,5 +14,9 @@ Check games dropped so far.
 ## [snakey-letters](https://github.com/cli-games/snakey-letters/)
 Written for kids. Classic snake hungry for letters!
 
+![Snakey Letters](snakey-letters.png)
+
 ## [ortotris clone](https://github.com/cli-games/ortotris/)
 A quick clone of an old brill game called Ortotris.
+
+![Ortotris CLI](ortotris-cli.png)
