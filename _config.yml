@@ -22,7 +22,7 @@ title: Command Line Games
 description: >- # this means to ignore newlines until "baseurl:"
   Command-line wizardry brewed during coffee breaks.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cli-games.f0x.pl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cli-games.forthcoming.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cli-games
 author: Mikolaj Gasior
 author_github: mikogs
